@@ -19,4 +19,16 @@ public class ShapeFactory {
         }
         return null;
     }
+
+    public static void main(String[] args) {
+        ShapeFactory shapeFactory = new ShapeFactory();
+
+        Shape rectangele = shapeFactory.getShape("rectangle");
+
+        rectangele.draw();
+
+        Shape square = shapeFactory.getShape("Square");
+
+        square.draw();
+    }
 }
