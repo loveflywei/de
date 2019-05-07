@@ -1,11 +1,11 @@
-package com.alex.design.factorymethod;
+package com.alex.design.abstractfactorypattern;
 
 /**
  * @Title: Shape
  * @ProjectName design-model
  * @Description: TODO
  * @Author jiangwei121
- * @Date 2019/4/2816:16
+ * @Date 2019/4/3014:41
  */
 public interface Shape {
     void draw();
