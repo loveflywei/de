@@ -1,4 +1,4 @@
-package com.alex.design.abstractfactorypattern;
+package com.alex.design.abstractfactory;
 
 /**
  * @Title: Rectangle
