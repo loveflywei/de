@@ -1,4 +1,4 @@
-package com.alex.design.singleton;
+package com.alex.design.singleton.classics;
 
 /**
  * @Title: SingleObject
